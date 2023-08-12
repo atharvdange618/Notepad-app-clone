@@ -39,7 +39,7 @@ This Java Notepad app clone is designed to mimic the functionality of the standa
 
 To run this Notepad app clone locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/java-notepad-clone.git`
+1. Clone the repository: `git clone https://github.com/atharvdange618/Notepad-app-clone.git`
 2. Navigate to the project directory: `cd java-notepad-clone`
 3. Compile the Java source files: `javac *.java`
 4. Run the application: `java NotepadApp`

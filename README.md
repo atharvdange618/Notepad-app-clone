@@ -1,3 +1,4 @@
+![Notepad-app-clone](https://socialify.git.ci/atharvdange618/Notepad-app-clone/image?language=1&name=1&owner=1&theme=Light)
 # Notepad-app-clone
 This is my try at making a clone of Windows infamous Notepad App
 
